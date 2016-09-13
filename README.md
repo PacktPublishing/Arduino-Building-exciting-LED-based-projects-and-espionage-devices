@@ -14,3 +14,8 @@ Arduino : Building exciting LED based projects and espionage devices
 * Find out how to transform your Arduino into a GPS tracker
 * Use the Arduino to monitor top secret data
 * Build a complete spy robot!
+
+## Related books
+- [Arduino Android Blueptrints](https://www.packtpub.com/hardware-and-creative/arduino-android-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781784390389)
+- [Arduino Robotic Projects](https://www.packtpub.com/hardware-and-creative/arduino-robotic-projects?utm_source=github&utm_medium=repository&utm_campaign=9781783989829)
+- [C Programming for Arduino](https://www.packtpub.com/hardware-and-creative/c-programming-arduino?utm_source=github&utm_medium=repository&utm_campaign=9781849517584)
