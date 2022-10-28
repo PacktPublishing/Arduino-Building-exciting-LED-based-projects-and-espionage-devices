@@ -19,3 +19,7 @@ Arduino : Building exciting LED based projects and espionage devices
 - [Arduino Android Blueprints](https://www.packtpub.com/hardware-and-creative/arduino-android-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781784390389)
 - [Arduino Robotic Projects](https://www.packtpub.com/hardware-and-creative/arduino-robotic-projects?utm_source=github&utm_medium=repository&utm_campaign=9781783989829)
 - [C Programming for Arduino](https://www.packtpub.com/hardware-and-creative/c-programming-arduino?utm_source=github&utm_medium=repository&utm_campaign=9781849517584)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787121072">https://packt.link/free-ebook/9781787121072 </a> </p>
